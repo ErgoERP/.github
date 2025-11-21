@@ -1,4 +1,4 @@
-# Ergo
+<img width="150" height="150" src="https://github.com/ErgoERP/.github/blob/main/media/ergo-dark-contrast.png"/>
 
 ### Lightweight ERP system, designed to serve small businesses
 #### Developed by Mason Ritchason ([@masonritchason](https://github.com/masonritchason)).
